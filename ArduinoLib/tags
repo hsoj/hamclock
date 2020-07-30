@@ -1,0 +1,285 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Adafruit_BME280	Adafruit_BME280.cpp	/^Adafruit_BME280::Adafruit_BME280() : _cs(-1), _mosi(-1), _miso(-1), _sck(-1) {}$/;"	f	class:Adafruit_BME280
+Adafruit_BME280	Adafruit_BME280.cpp	/^Adafruit_BME280::Adafruit_BME280(int8_t cspin, SPIClass *theSPI) {$/;"	f	class:Adafruit_BME280
+Adafruit_BME280	Adafruit_BME280.cpp	/^Adafruit_BME280::Adafruit_BME280(int8_t cspin, int8_t mosipin, int8_t misopin,$/;"	f	class:Adafruit_BME280
+Adafruit_RA8875	Adafruit_RA8875.cpp	/^Adafruit_RA8875::Adafruit_RA8875(uint8_t CS, uint8_t RST)$/;"	f	class:Adafruit_RA8875
+BIT	Adafruit_RA8875.cpp	/^            #define BIT(/;"	d	file:
+BITS_PER_LONG	Adafruit_RA8875.cpp	/^            #define BITS_PER_LONG /;"	d	file:
+EEPROM	EEPROM.cpp	/^EEPROM::EEPROM()$/;"	f	class:EEPROM
+EEPROM	EEPROM.cpp	/^class EEPROM EEPROM;$/;"	v	typeref:class:EEPROM
+ESP	ESP.cpp	/^ESP::ESP()$/;"	f	class:ESP
+ESP	ESP.cpp	/^class ESP ESP;$/;"	v	typeref:class:ESP
+ESPhttpUpdate	ESP8266httpUpdate.cpp	/^class ESPhttpUpdate ESPhttpUpdate;$/;"	v	typeref:class:ESPhttpUpdate
+LEAP_YEAR	Time.cpp	/^#define LEAP_YEAR(/;"	d	file:
+LONG	Adafruit_RA8875.cpp	/^            #define LONG(/;"	d	file:
+NBITS	Adafruit_RA8875.cpp	/^            #define NBITS(/;"	d	file:
+OFF	Adafruit_RA8875.cpp	/^            #define OFF(/;"	d	file:
+PGM_P	DateStrings.cpp	/^#define PGM_P /;"	d	file:
+PROGMEM	CourierPrimeSans6.cpp	/^const GFXfont Courier_Prime_Sans6pt7b PROGMEM = {$/;"	v
+PROGMEM	CourierPrimeSans6.cpp	/^const GFXglyph Courier_Prime_Sans_0_10pt7bGlyphs[] PROGMEM = {$/;"	v
+PROGMEM	CourierPrimeSans6.cpp	/^const GFXglyph Courier_Prime_Sans_0_15pt7bGlyphs[] PROGMEM = {$/;"	v
+PROGMEM	CourierPrimeSans6.cpp	/^const GFXglyph Courier_Prime_Sans_0_20pt7bGlyphs[] PROGMEM = {$/;"	v
+PROGMEM	CourierPrimeSans6.cpp	/^const GFXglyph Courier_Prime_Sans_0_5pt7bGlyphs[] PROGMEM = {$/;"	v
+PROGMEM	CourierPrimeSans6.cpp	/^const uint8_t Courier_Prime_Sans_0_10pt7bBitmaps[] PROGMEM = {$/;"	v
+PROGMEM	CourierPrimeSans6.cpp	/^const uint8_t Courier_Prime_Sans_0_15pt7bBitmaps[] PROGMEM = {$/;"	v
+PROGMEM	CourierPrimeSans6.cpp	/^const uint8_t Courier_Prime_Sans_0_20pt7bBitmaps[] PROGMEM = {$/;"	v
+PROGMEM	CourierPrimeSans6.cpp	/^const uint8_t Courier_Prime_Sans_0_5pt7bBitmaps[] PROGMEM = {$/;"	v
+PROGMEM	DateStrings.cpp	/^#define PROGMEM$/;"	d	file:
+PROGMEM	DateStrings.cpp	/^const char dayShortNames_P[] PROGMEM = "ErrSunMonTueWedThuFriSat";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char dayStr0[] PROGMEM = "Err";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char dayStr1[] PROGMEM = "Sunday";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char dayStr2[] PROGMEM = "Monday";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char dayStr3[] PROGMEM = "Tuesday";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char dayStr4[] PROGMEM = "Wednesday";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char dayStr5[] PROGMEM = "Thursday";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char dayStr6[] PROGMEM = "Friday";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char dayStr7[] PROGMEM = "Saturday";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthShortNames_P[] PROGMEM = "ErrJanFebMarAprMayJunJulAugSepOctNovDec";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr0[] PROGMEM = "";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr10[] PROGMEM = "October";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr11[] PROGMEM = "November";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr12[] PROGMEM = "December";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr1[] PROGMEM = "January";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr2[] PROGMEM = "February";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr3[] PROGMEM = "March";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr4[] PROGMEM = "April";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr5[] PROGMEM = "May";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr6[] PROGMEM = "June";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr7[] PROGMEM = "July";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr8[] PROGMEM = "August";$/;"	v
+PROGMEM	DateStrings.cpp	/^const char monthStr9[] PROGMEM = "September";$/;"	v
+PROGMEM	dearth-big.cpp	/^const uint16_t Adafruit_RA8875::DEARTH_BIG[EARTH_BIG_H][EARTH_BIG_W] PROGMEM = {$/;"	v
+PROGMEM	nearth-big.cpp	/^const uint16_t Adafruit_RA8875::NEARTH_BIG[EARTH_BIG_H][EARTH_BIG_W] PROGMEM = {$/;"	v
+RPiGPIO	RPiGPIO.cpp	/^RPiGPIO::RPiGPIO()$/;"	f	class:RPiGPIO
+RSSI	ESP8266WiFi.cpp	/^int WiFi::RSSI(void)$/;"	f	class:WiFi
+SPI	SPI.cpp	/^SPIClass SPI;$/;"	v
+Serial	Serial.cpp	/^class Serial Serial;$/;"	v	typeref:class:Serial
+Status	Time.cpp	/^static timeStatus_t Status = timeNotSet;$/;"	v	file:
+TwoWire	Wire.cpp	/^TwoWire::TwoWire()$/;"	f	class:TwoWire
+WiFi	ESP8266WiFi.cpp	/^class WiFi WiFi;$/;"	v	typeref:class:WiFi
+WiFiClient	WiFiClient.cpp	/^WiFiClient::WiFiClient()$/;"	f	class:WiFiClient
+WiFiClient	WiFiClient.cpp	/^WiFiClient::WiFiClient(int fd)$/;"	f	class:WiFiClient
+WiFiServer	WiFiServer.cpp	/^WiFiServer::WiFiServer(int newport)$/;"	f	class:WiFiServer
+WiFiUDP	WiFiUdp.cpp	/^WiFiUDP::WiFiUDP()$/;"	f	class:WiFiUDP
+Wire	Wire.cpp	/^TwoWire Wire;$/;"	v
+adjustTime	Time.cpp	/^void adjustTime(long adjustment) {$/;"	f
+analogRead	Arduino.cpp	/^uint16_t analogRead(int pin)$/;"	f
+available	WiFiClient.cpp	/^int WiFiClient::available()$/;"	f	class:WiFiClient
+available	WiFiServer.cpp	/^WiFiClient WiFiServer::available()$/;"	f	class:WiFiServer
+available	Wire.cpp	/^int TwoWire::available(void)$/;"	f	class:TwoWire
+begin	Adafruit_BME280.cpp	/^bool Adafruit_BME280::begin(TwoWire *theWire) {$/;"	f	class:Adafruit_BME280
+begin	Adafruit_BME280.cpp	/^bool Adafruit_BME280::begin(uint8_t addr) {$/;"	f	class:Adafruit_BME280
+begin	Adafruit_BME280.cpp	/^bool Adafruit_BME280::begin(uint8_t addr, TwoWire *theWire) {$/;"	f	class:Adafruit_BME280
+begin	Adafruit_BME280.cpp	/^bool Adafruit_BME280::begin(void) {$/;"	f	class:Adafruit_BME280
+begin	Adafruit_RA8875.cpp	/^bool Adafruit_RA8875::begin (int x)$/;"	f	class:Adafruit_RA8875
+begin	EEPROM.cpp	/^void EEPROM::begin (int s)$/;"	f	class:EEPROM
+begin	ESP8266WiFi.cpp	/^void WiFi::begin (char *ssid, char *pw)$/;"	f	class:WiFi
+begin	RPiGPIO.cpp	/^bool RPiGPIO::begin (char ynot[])$/;"	f	class:RPiGPIO
+begin	WiFiServer.cpp	/^bool WiFiServer::begin()$/;"	f	class:WiFiServer
+begin	WiFiUdp.cpp	/^bool WiFiUDP::begin(int port)$/;"	f	class:WiFiUDP
+begin	Wire.cpp	/^void TwoWire::begin()$/;"	f	class:TwoWire
+beginMulticast	WiFiUdp.cpp	/^bool WiFiUDP::beginMulticast (IPAddress ifIP, IPAddress mcIP, int port)$/;"	f	class:WiFiUDP
+beginPacket	WiFiUdp.cpp	/^void WiFiUDP::beginPacket (const char *host, int port)$/;"	f	class:WiFiUDP
+beginTransmission	Wire.cpp	/^void TwoWire::beginTransmission(uint8_t addr)$/;"	f	class:TwoWire
+breakTime	Time.cpp	/^void breakTime(time_t timeInput, tmElements_t &tm){$/;"	f
+buffer	DateStrings.cpp	/^static char buffer[dt_MAX_STRING_LEN+1];  \/\/ must be big enough for longest string and the terminating null$/;"	v	file:
+cacheTime	Time.cpp	/^static time_t cacheTime;   \/\/ the time the cache was updated$/;"	v	file:
+channel	ESP8266WiFi.cpp	/^int WiFi::channel(void)$/;"	f	class:WiFi
+closeConnection	Wire.cpp	/^void TwoWire::closeConnection()$/;"	f	class:TwoWire
+connect	WiFiClient.cpp	/^bool WiFiClient::connect(IPAddress ip, int port)$/;"	f	class:WiFiClient
+connect	WiFiClient.cpp	/^bool WiFiClient::connect(const char *host, int port)$/;"	f	class:WiFiClient
+connect_to	WiFiClient.cpp	/^int WiFiClient::connect_to (int sockfd, struct sockaddr *serv_addr, int addrlen, int to_ms)$/;"	f	class:WiFiClient
+connected	WiFiClient.cpp	/^bool WiFiClient::connected()$/;"	f	class:WiFiClient
+crackCIDR	ESP8266WiFi.cpp	/^static bool crackCIDR (const char line[], IPAddress &m)$/;"	f	file:
+crackIP	ESP8266WiFi.cpp	/^static bool crackIP (const char line[], IPAddress &a)$/;"	f	file:
+day	Time.cpp	/^int day(){$/;"	f
+day	Time.cpp	/^int day(time_t t) { \/\/ the day for the given time (0-6)$/;"	f
+dayNames_P	DateStrings.cpp	/^const PROGMEM char * const PROGMEM dayNames_P[] =$/;"	v
+dayShortStr	DateStrings.cpp	/^char* dayShortStr(uint8_t day) $/;"	f
+dayStr	DateStrings.cpp	/^char* dayStr(uint8_t day) $/;"	f
+delay	Arduino.cpp	/^void delay (uint32_t ms)$/;"	f
+dnsIP	ESP8266WiFi.cpp	/^IPAddress WiFi::dnsIP(void)$/;"	f	class:WiFi
+drawCircle	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::drawCircle(int16_t x0, int16_t y0, int16_t r0, uint16_t color16)$/;"	f	class:Adafruit_RA8875
+drawLine	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::drawLine(int16_t x0, int16_t y0, int16_t x1, int16_t y1, uint16_t color16)$/;"	f	class:Adafruit_RA8875
+drawPR	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::drawPR(void)$/;"	f	class:Adafruit_RA8875
+drawPixel	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::drawPixel(int16_t x, int16_t y, uint16_t color16)$/;"	f	class:Adafruit_RA8875
+drawPixels	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::drawPixels (uint16_t * p, uint32_t count, int16_t x, int16_t y)$/;"	f	class:Adafruit_RA8875
+drawRect	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::drawRect(int16_t x0, int16_t y0, int16_t w, int16_t h, uint16_t color16)$/;"	f	class:Adafruit_RA8875
+drawSubPixel	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::drawSubPixel(int16_t x, int16_t y, uint16_t color16)$/;"	f	class:Adafruit_RA8875
+drawTriangle	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::drawTriangle(int16_t x0, int16_t y0, int16_t x1, int16_t y1, int16_t x2, int16_t y2,$/;"	f	class:Adafruit_RA8875
+dt_SHORT_STR_LEN	DateStrings.cpp	/^#define dt_SHORT_STR_LEN /;"	d	file:
+dtostrf	Arduino.cpp	/^char *dtostrf (double val, signed char width, unsigned char prec, char *s)$/;"	f
+endPacket	WiFiUdp.cpp	/^bool WiFiUDP::endPacket()$/;"	f	class:WiFiUDP
+endTransmission	Wire.cpp	/^uint8_t TwoWire::endTransmission(bool sendStop)$/;"	f	class:TwoWire
+err_msg	ESP8266httpUpdate.cpp	/^static const char *err_msg;$/;"	v	file:
+fbThread	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::fbThread ()$/;"	f	class:Adafruit_RA8875
+fbThreadHelper	Adafruit_RA8875.cpp	/^void *Adafruit_RA8875::fbThreadHelper(void *me)$/;"	f	class:Adafruit_RA8875
+fillCircle	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::fillCircle(int16_t x0, int16_t y0, int16_t r0, uint16_t color16)$/;"	f	class:Adafruit_RA8875
+fillRect	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::fillRect(int16_t x0, int16_t y0, int16_t w, int16_t h, uint16_t color16)$/;"	f	class:Adafruit_RA8875
+fillScreen	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::fillScreen (uint16_t color16)$/;"	f	class:Adafruit_RA8875
+fillTriangle	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::fillTriangle(int16_t x0, int16_t y0, int16_t x1, int16_t y1, int16_t x2, int16_t y2,$/;"	f	class:Adafruit_RA8875
+findFullPath	ESP8266httpUpdate.cpp	/^static bool findFullPath (char *me, char fullpath[], size_t fplen)$/;"	f	file:
+findKeyboard	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::findKeyboard()$/;"	f	class:Adafruit_RA8875
+findMouse	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::findMouse()$/;"	f	class:Adafruit_RA8875
+gatewayIP	ESP8266WiFi.cpp	/^IPAddress WiFi::gatewayIP(void)$/;"	f	class:WiFi
+gbase	RPiGPIO.cpp	/^uint32_t volatile *RPiGPIO::gbase;$/;"	m	class:RPiGPIO	file:
+getChar	Adafruit_RA8875.cpp	/^char Adafruit_RA8875::getChar()$/;"	f	class:Adafruit_RA8875
+getChipId	ESP.cpp	/^uint32_t ESP::getChipId()$/;"	f	class:ESP
+getCommand	ESP8266WiFi.cpp	/^static bool getCommand (const char cmd[], char line[], size_t line_len)$/;"	f	file:
+getCursorX	Adafruit_RA8875.cpp	/^int16_t Adafruit_RA8875::getCursorX(void)$/;"	f	class:Adafruit_RA8875
+getCursorY	Adafruit_RA8875.cpp	/^int16_t Adafruit_RA8875::getCursorY(void)$/;"	f	class:Adafruit_RA8875
+getFreeHeap	ESP.cpp	/^uint32_t ESP::getFreeHeap(void)$/;"	f	class:ESP
+getLastError	ESP8266httpUpdate.cpp	/^int ESPhttpUpdate::getLastError(void)$/;"	f	class:ESPhttpUpdate
+getLastErrorString	ESP8266httpUpdate.cpp	/^const char *ESPhttpUpdate::getLastErrorString(void)$/;"	f	class:ESPhttpUpdate
+getTextBounds	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::getTextBounds(char *string, int16_t x, int16_t y,$/;"	f	class:Adafruit_RA8875
+getTimePtr	Time.cpp	/^getExternalTime getTimePtr;  \/\/ pointer to external sync function$/;"	v
+height	Adafruit_RA8875.cpp	/^uint16_t Adafruit_RA8875::height(void)$/;"	f	class:Adafruit_RA8875
+hostname	ESP8266WiFi.cpp	/^std::string WiFi::hostname(void)$/;"	f	class:WiFi
+hour	Time.cpp	/^int hour() { \/\/ the hour now $/;"	f
+hour	Time.cpp	/^int hour(time_t t) { \/\/ the hour for the given time$/;"	f
+hourFormat12	Time.cpp	/^int hourFormat12() { \/\/ the hour now in 12 hour format$/;"	f
+hourFormat12	Time.cpp	/^int hourFormat12(time_t t) { \/\/ the hour for the given time in 12 hour format$/;"	f
+init	Adafruit_BME280.cpp	/^bool Adafruit_BME280::init() {$/;"	f	class:Adafruit_BME280
+isAM	Time.cpp	/^uint8_t isAM() { \/\/ returns true if time now is AM$/;"	f
+isAM	Time.cpp	/^uint8_t isAM(time_t t) { \/\/ returns true if given time is AM$/;"	f
+isPM	Time.cpp	/^uint8_t isPM() { \/\/ returns true if PM$/;"	f
+isPM	Time.cpp	/^uint8_t isPM(time_t t) { \/\/ returns true if PM$/;"	f
+isReadingCalibration	Adafruit_BME280.cpp	/^bool Adafruit_BME280::isReadingCalibration(void) {$/;"	f	class:Adafruit_BME280
+kbThread	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::kbThread ()$/;"	f	class:Adafruit_RA8875
+kbThreadHelper	Adafruit_RA8875.cpp	/^void *Adafruit_RA8875::kbThreadHelper(void *me)$/;"	f	class:Adafruit_RA8875
+localIP	ESP8266WiFi.cpp	/^IPAddress WiFi::localIP(void)$/;"	f	class:WiFi
+lock	RPiGPIO.cpp	/^pthread_mutex_t RPiGPIO::lock;$/;"	m	class:RPiGPIO	file:
+macAddress	ESP8266WiFi.cpp	/^std::string WiFi::macAddress(void)$/;"	f	class:WiFi
+main	Arduino.cpp	/^int main (int ac, char *av[])$/;"	f
+makeTime	Time.cpp	/^time_t makeTime(const tmElements_t &tm){   $/;"	f
+mapGPIOAddress	RPiGPIO.cpp	/^bool RPiGPIO::mapGPIOAddress(char ynot[])$/;"	f	class:RPiGPIO
+millis	Arduino.cpp	/^uint32_t millis(void)$/;"	f
+minute	Time.cpp	/^int minute() {$/;"	f
+minute	Time.cpp	/^int minute(time_t t) { \/\/ the minute for the given time$/;"	f
+mode	ESP8266WiFi.cpp	/^int WiFi::mode (int m)$/;"	f	class:WiFi
+month	Time.cpp	/^int month(){$/;"	f
+month	Time.cpp	/^int month(time_t t) {  \/\/ the month for the given time$/;"	f
+monthDays	Time.cpp	/^static  const uint8_t monthDays[]={31,28,31,30,31,30,31,31,30,31,30,31}; \/\/ API starts months from 1, this array starts from 0$/;"	v	file:
+monthNames_P	DateStrings.cpp	/^const PROGMEM char * const PROGMEM monthNames_P[] =$/;"	v
+monthShortStr	DateStrings.cpp	/^char* monthShortStr(uint8_t month)$/;"	f
+monthStr	DateStrings.cpp	/^char* monthStr(uint8_t month)$/;"	f
+mouseThread	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::mouseThread (void)$/;"	f	class:Adafruit_RA8875
+mouseThreadHelper	Adafruit_RA8875.cpp	/^void *Adafruit_RA8875::mouseThreadHelper(void *me)$/;"	f	class:Adafruit_RA8875
+nextSyncTime	Time.cpp	/^static uint32_t nextSyncTime = 0;$/;"	v	file:
+now	Time.cpp	/^time_t now() {$/;"	f
+openConnection	Wire.cpp	/^bool TwoWire::openConnection()$/;"	f	class:TwoWire
+operator bool	WiFiClient.cpp	/^WiFiClient::operator bool()$/;"	f	class:WiFiClient
+our_name	Arduino.cpp	/^char *our_name;$/;"	v
+parsePacket	WiFiUdp.cpp	/^int WiFiUDP::parsePacket()$/;"	f	class:WiFiUDP
+pgm_read_byte	DateStrings.cpp	/^#define pgm_read_byte(/;"	d	file:
+pgm_read_word	DateStrings.cpp	/^#define pgm_read_word(/;"	d	file:
+plot32	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::plot32 (int16_t x, int16_t y, uint32_t color32)$/;"	f	class:Adafruit_RA8875
+plotChar	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::plotChar (char ch)$/;"	f	class:Adafruit_RA8875
+plotEarth	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::plotEarth (uint16_t x0, uint16_t y0, float lat0, float lng0,$/;"	f	class:Adafruit_RA8875
+plotLine	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::plotLine(int16_t x0, int16_t y0, int16_t x1, int16_t y1, uint32_t color32)$/;"	f	class:Adafruit_RA8875
+plotLineHigh	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::plotLineHigh(int16_t x0, int16_t y0, int16_t x1, int16_t y1, uint32_t color32)$/;"	f	class:Adafruit_RA8875
+plotLineLow	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::plotLineLow(int16_t x0, int16_t y0, int16_t x1, int16_t y1, uint32_t color32)$/;"	f	class:Adafruit_RA8875
+prevMillis	Time.cpp	/^static uint32_t prevMillis = 0;$/;"	v	file:
+print	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::print (char *s)$/;"	f	class:Adafruit_RA8875
+print	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::print (char c)$/;"	f	class:Adafruit_RA8875
+print	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::print (const char *s)$/;"	f	class:Adafruit_RA8875
+print	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::print (float f, int p)$/;"	f	class:Adafruit_RA8875
+print	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::print (int i, int b)$/;"	f	class:Adafruit_RA8875
+print	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::print (long l)$/;"	f	class:Adafruit_RA8875
+print	WiFiClient.cpp	/^void WiFiClient::print (String s)$/;"	f	class:WiFiClient
+print	WiFiClient.cpp	/^void WiFiClient::print (float f)$/;"	f	class:WiFiClient
+print	WiFiClient.cpp	/^void WiFiClient::print (float f, int s)$/;"	f	class:WiFiClient
+println	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::println (char *s)$/;"	f	class:Adafruit_RA8875
+println	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::println (const char *s)$/;"	f	class:Adafruit_RA8875
+println	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::println (int i, int b)$/;"	f	class:Adafruit_RA8875
+println	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::println (void)$/;"	f	class:Adafruit_RA8875
+println	WiFiClient.cpp	/^void WiFiClient::println (String s)$/;"	f	class:WiFiClient
+println	WiFiClient.cpp	/^void WiFiClient::println (float f)$/;"	f	class:WiFiClient
+println	WiFiClient.cpp	/^void WiFiClient::println (float f, int s)$/;"	f	class:WiFiClient
+println	WiFiClient.cpp	/^void WiFiClient::println (int i)$/;"	f	class:WiFiClient
+println	WiFiClient.cpp	/^void WiFiClient::println (uint32_t i)$/;"	f	class:WiFiClient
+random	Arduino.cpp	/^int random(int max)$/;"	f
+read	EEPROM.cpp	/^uint8_t EEPROM::read (uint32_t address)$/;"	f	class:EEPROM
+read	WiFiClient.cpp	/^int WiFiClient::read()$/;"	f	class:WiFiClient
+read	WiFiUdp.cpp	/^int WiFiUDP::read(uint8_t *buf, int n)$/;"	f	class:WiFiUDP
+read	Wire.cpp	/^int TwoWire::read(void)$/;"	f	class:TwoWire
+read16	Adafruit_BME280.cpp	/^uint16_t Adafruit_BME280::read16(byte reg) {$/;"	f	class:Adafruit_BME280
+read16_LE	Adafruit_BME280.cpp	/^uint16_t Adafruit_BME280::read16_LE(byte reg) {$/;"	f	class:Adafruit_BME280
+read24	Adafruit_BME280.cpp	/^uint32_t Adafruit_BME280::read24(byte reg) {$/;"	f	class:Adafruit_BME280
+read8	Adafruit_BME280.cpp	/^uint8_t Adafruit_BME280::read8(byte reg) {$/;"	f	class:Adafruit_BME280
+readAltitude	Adafruit_BME280.cpp	/^float Adafruit_BME280::readAltitude(float seaLevel) {$/;"	f	class:Adafruit_BME280
+readCoefficients	Adafruit_BME280.cpp	/^void Adafruit_BME280::readCoefficients(void) {$/;"	f	class:Adafruit_BME280
+readData	Adafruit_RA8875.cpp	/^uint16_t Adafruit_RA8875::readData(void)$/;"	f	class:Adafruit_RA8875
+readHumidity	Adafruit_BME280.cpp	/^float Adafruit_BME280::readHumidity(void) {$/;"	f	class:Adafruit_BME280
+readPin	RPiGPIO.cpp	/^bool RPiGPIO::readPin (uint8_t p)$/;"	f	class:RPiGPIO
+readPressure	Adafruit_BME280.cpp	/^float Adafruit_BME280::readPressure(void) {$/;"	f	class:Adafruit_BME280
+readS16	Adafruit_BME280.cpp	/^int16_t Adafruit_BME280::readS16(byte reg) { return (int16_t)read16(reg); }$/;"	f	class:Adafruit_BME280
+readS16_LE	Adafruit_BME280.cpp	/^int16_t Adafruit_BME280::readS16_LE(byte reg) {$/;"	f	class:Adafruit_BME280
+readTemperature	Adafruit_BME280.cpp	/^float Adafruit_BME280::readTemperature(void) {$/;"	f	class:Adafruit_BME280
+refreshCache	Time.cpp	/^void refreshCache(time_t t) {$/;"	f
+remoteIP	WiFiClient.cpp	/^String WiFiClient::remoteIP()$/;"	f	class:WiFiClient
+remoteIP	WiFiUdp.cpp	/^IPAddress WiFiUDP::remoteIP()$/;"	f	class:WiFiUDP
+requestFrom	Wire.cpp	/^uint8_t TwoWire::requestFrom(uint8_t addr, uint8_t nbytes)$/;"	f	class:TwoWire
+restart	ESP.cpp	/^void ESP::restart(void)$/;"	f	class:ESP
+runCommand	ESP8266httpUpdate.cpp	/^static bool runCommand (const char *cmd, const char *err)$/;"	f	file:
+seaLevelForAltitude	Adafruit_BME280.cpp	/^float Adafruit_BME280::seaLevelForAltitude(float altitude, float atmospheric) {$/;"	f	class:Adafruit_BME280
+second	Time.cpp	/^int second() {$/;"	f
+second	Time.cpp	/^int second(time_t t) {  \/\/ the second for the given time$/;"	f
+sensorID	Adafruit_BME280.cpp	/^uint32_t Adafruit_BME280::sensorID(void) { return _sensorID; }$/;"	f	class:Adafruit_BME280
+setAddr	Wire.cpp	/^void TwoWire::setAddr (uint8_t addr)$/;"	f	class:TwoWire
+setAsInput	RPiGPIO.cpp	/^void RPiGPIO::setAsInput(uint8_t p)$/;"	f	class:RPiGPIO
+setAsOutput	RPiGPIO.cpp	/^void RPiGPIO::setAsOutput(uint8_t p)$/;"	f	class:RPiGPIO
+setCursor	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::setCursor(uint16_t x, uint16_t y)$/;"	f	class:Adafruit_RA8875
+setCursorIfVis	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::setCursorIfVis (uint16_t row, uint16_t col, uint32_t color)$/;"	f	class:Adafruit_RA8875
+setFont	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::setFont (const GFXfont *f)$/;"	f	class:Adafruit_RA8875
+setHi	RPiGPIO.cpp	/^void RPiGPIO::setHi(uint8_t p)$/;"	f	class:RPiGPIO
+setHiLo	RPiGPIO.cpp	/^void RPiGPIO::setHiLo (uint8_t p, bool hi)$/;"	f	class:RPiGPIO
+setLo	RPiGPIO.cpp	/^void RPiGPIO::setLo(uint8_t p)$/;"	f	class:RPiGPIO
+setNoDelay	WiFiClient.cpp	/^void WiFiClient::setNoDelay(bool on)$/;"	f	class:WiFiClient
+setPR	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::setPR (uint16_t x, uint16_t y, uint16_t w, uint16_t h)$/;"	f	class:Adafruit_RA8875
+setSampling	Adafruit_BME280.cpp	/^void Adafruit_BME280::setSampling(sensor_mode mode,$/;"	f	class:Adafruit_BME280
+setStagingArea	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::setStagingArea()$/;"	f	class:Adafruit_RA8875
+setSyncInterval	Time.cpp	/^void setSyncInterval(time_t interval){ \/\/ set the number of seconds between re-sync$/;"	f
+setSyncProvider	Time.cpp	/^void setSyncProvider( getExternalTime getTimeFunction){$/;"	f
+setTextColor	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::setTextColor(uint16_t color16)$/;"	f	class:Adafruit_RA8875
+setTime	Time.cpp	/^void setTime(int hr,int min,int sec,int dy, int mnth, int yr){$/;"	f
+setTime	Time.cpp	/^void setTime(time_t t) { $/;"	f
+setXY	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::setXY (int16_t x, int16_t y)$/;"	f	class:Adafruit_RA8875
+spi_speed	Adafruit_RA8875.cpp	/^uint32_t spi_speed;$/;"	v
+spixfer	Adafruit_BME280.cpp	/^uint8_t Adafruit_BME280::spixfer(uint8_t x) {$/;"	f	class:Adafruit_BME280
+status	ESP8266WiFi.cpp	/^int WiFi::status(void)$/;"	f	class:WiFi
+stop	WiFiClient.cpp	/^void WiFiClient::stop()$/;"	f	class:WiFiClient
+stop	WiFiUdp.cpp	/^void WiFiUDP::stop()$/;"	f	class:WiFiUDP
+strcpy_P	DateStrings.cpp	/^#define strcpy_P(/;"	d	file:
+subnetMask	ESP8266WiFi.cpp	/^IPAddress WiFi::subnetMask(void)$/;"	f	class:WiFi
+syncInterval	Time.cpp	/^static uint32_t syncInterval = 300;  \/\/ time sync will be attempted after this many seconds$/;"	v	file:
+sysTime	Time.cpp	/^static uint32_t sysTime = 0;$/;"	v	file:
+sysUnsyncedTime	Time.cpp	/^time_t sysUnsyncedTime = 0; \/\/ the time sysTime unadjusted by sync  $/;"	v
+takeForcedMeasurement	Adafruit_BME280.cpp	/^void Adafruit_BME280::takeForcedMeasurement() {$/;"	f	class:Adafruit_BME280
+test_bit	Adafruit_RA8875.cpp	/^            #define test_bit(/;"	d	file:
+timeStatus	Time.cpp	/^timeStatus_t timeStatus() {$/;"	f
+tm	Time.cpp	/^static tmElements_t tm;          \/\/ a cache of time elements$/;"	v	file:
+tmp_dir	ESP8266httpUpdate.cpp	/^static const char *tmp_dir = "\/tmp";$/;"	v	file:
+touchRead	Adafruit_RA8875.cpp	/^void Adafruit_RA8875::touchRead (uint16_t *x, uint16_t *y)$/;"	f	class:Adafruit_RA8875
+touched	Adafruit_RA8875.cpp	/^bool Adafruit_RA8875::touched(void)$/;"	f	class:Adafruit_RA8875
+tout	WiFiClient.cpp	/^int WiFiClient::tout (int to_ms, int fd)$/;"	f	class:WiFiClient
+update	ESP8266httpUpdate.cpp	/^t_httpUpdate_return ESPhttpUpdate::update(const char *url)$/;"	f	class:ESPhttpUpdate
+weekday	Time.cpp	/^int weekday() {   \/\/ Sunday is day 1$/;"	f
+weekday	Time.cpp	/^int weekday(time_t t) {$/;"	f
+width	Adafruit_RA8875.cpp	/^uint16_t Adafruit_RA8875::width(void)$/;"	f	class:Adafruit_RA8875
+write	EEPROM.cpp	/^void EEPROM::write (uint32_t address, uint8_t byte)$/;"	f	class:EEPROM
+write	WiFiClient.cpp	/^int WiFiClient::write (const uint8_t *buf, int n)$/;"	f	class:WiFiClient
+write	WiFiUdp.cpp	/^void WiFiUDP::write (uint8_t *buf, int n)$/;"	f	class:WiFiUDP
+write	Wire.cpp	/^size_t TwoWire::write(const uint8_t *data, size_t quantity)$/;"	f	class:TwoWire
+write	Wire.cpp	/^size_t TwoWire::write(uint8_t datum)$/;"	f	class:TwoWire
+write8	Adafruit_BME280.cpp	/^void Adafruit_BME280::write8(byte reg, byte value) {$/;"	f	class:Adafruit_BME280
+year	Time.cpp	/^int year() {  \/\/ as in Processing, the full four digit year: (2009, 2010 etc) $/;"	f
+year	Time.cpp	/^int year(time_t t) { \/\/ the year for the given time$/;"	f
+yield	ESP.cpp	/^void yield(void)$/;"	f
+~TwoWire	Wire.cpp	/^TwoWire::~TwoWire()$/;"	f	class:TwoWire
+~WiFiUDP	WiFiUdp.cpp	/^WiFiUDP::~WiFiUDP()$/;"	f	class:WiFiUDP
